@@ -1,0 +1,14 @@
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\bin\Debug\netcoreapp3.1\ByteConversion.exe
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\bin\Debug\netcoreapp3.1\ByteConversion.deps.json
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\bin\Debug\netcoreapp3.1\ByteConversion.runtimeconfig.json
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\bin\Debug\netcoreapp3.1\ByteConversion.runtimeconfig.dev.json
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\bin\Debug\netcoreapp3.1\ByteConversion.dll
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\bin\Debug\netcoreapp3.1\ByteConversion.pdb
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\obj\Debug\netcoreapp3.1\ByteConversion.csproj.AssemblyReference.cache
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\obj\Debug\netcoreapp3.1\ByteConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\obj\Debug\netcoreapp3.1\ByteConversion.AssemblyInfoInputs.cache
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\obj\Debug\netcoreapp3.1\ByteConversion.AssemblyInfo.cs
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\obj\Debug\netcoreapp3.1\ByteConversion.csproj.CoreCompileInputs.cache
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\obj\Debug\netcoreapp3.1\ByteConversion.dll
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\obj\Debug\netcoreapp3.1\ByteConversion.pdb
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\obj\Debug\netcoreapp3.1\ByteConversion.genruntimeconfig.cache

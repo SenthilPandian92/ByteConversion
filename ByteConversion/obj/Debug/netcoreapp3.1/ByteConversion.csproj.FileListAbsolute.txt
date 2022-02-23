@@ -12,3 +12,11 @@ C:\Users\Senth\source\repos\ByteConversion\ByteConversion\obj\Debug\netcoreapp3.
 C:\Users\Senth\source\repos\ByteConversion\ByteConversion\obj\Debug\netcoreapp3.1\ByteConversion.dll
 C:\Users\Senth\source\repos\ByteConversion\ByteConversion\obj\Debug\netcoreapp3.1\ByteConversion.pdb
 C:\Users\Senth\source\repos\ByteConversion\ByteConversion\obj\Debug\netcoreapp3.1\ByteConversion.genruntimeconfig.cache
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Senth\source\repos\ByteConversion\ByteConversion\obj\Debug\netcoreapp3.1\ByteConversion.csproj.CopyComplete
